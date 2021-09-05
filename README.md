@@ -6,8 +6,8 @@ and because of my passion for data science and artificial intelligence, I have w
 including Sakila Movie database project using SQL language, US Bikeshare data project using Python language and Version Control for one of the international companies, 
 Corona virus data analysis project using R language and shiny app.
 
-I am looking to collaborate and contribute on Data Science and Artificial Intelligence with other teams.
+I am looking to collaborate and contribute on Data Science and Artificial Intelligence with other team
+
+![gif from https://weheartit.com/entry/318689635](https://data.whicdn.com/images/318689635/original.gif?raw=true)
 
 
-
-![gif from nerdy.dev](https://github.com/argyleink/argyleink/blob/master/argyleink-sm2.gif?raw=true)
