@@ -7,3 +7,7 @@ including Sakila Movie database project using SQL language, US Bikeshare data pr
 Corona virus data analysis project using R language and shiny app.
 
 I am looking to collaborate and contribute on Data Science and Artificial Intelligence with other teams.
+
+
+
+![gif from nerdy.dev](https://github.com/argyleink/argyleink/blob/master/argyleink-sm2.gif?raw=true)
